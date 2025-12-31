@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h2 align="center">Hi there, I'm Mukund Kulkarni 👋</h2>
+<h2 align="center">Hi there, I'm Manas Kulkarni 👋</h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;AI%20and%20ML%20Enthusiast;React%2FNext.js%20Expert;Database%20Designer;Open%20Source%20Contributor" />
 </p>
