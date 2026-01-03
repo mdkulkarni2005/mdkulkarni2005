@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m a passionate full-stack developer with 10+ years of coding experience.
+- 🔭 I’m a passionate full-stack developer with experience.
 - 👨‍💻 Expert in **JavaScript**, **Next.js**, **React.js**, and **React Native**.
 - 🤖 Build AI-powered applications, with deep knowledge in ML & data engineering.
 - 🗄️ Skilled with both SQL & NoSQL databases, plus Docker for efficient deployments.
